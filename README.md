@@ -1,4 +1,4 @@
-totxt.py  
+totxt.py & get_names.py   
 >  extract all names of files of a folder in to a new txt
 
 

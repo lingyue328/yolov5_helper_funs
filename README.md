@@ -1,5 +1,5 @@
 totxt.py  
->  extract all names of file in to a new folder
+>  extract all names of files of a folder in to a new txt
 
 
 label.py  
